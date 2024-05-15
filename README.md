@@ -5,5 +5,6 @@ Contact:
 📧 i.ratanshi1@gmail.com
 🌐 GitHub
 🔗 LinkedIn 
+[My Personal Website](https://iratansh.github.io/personal-website/#home)
 
 👋 I'm Ishaan Ratanshi, a Computer Science student at the University of Alberta. Passionate about AI & ML, Web Development, and Data Science. Proficient in HTML, CSS, JavaScript, Python, and frameworks like React.js and Flask. I am experienced in developing machine learning models for various applications, including stock market prediction and reinforcement learning. Currently exploring full-stack development and app development. Connect with me to collaborate on exciting projects and feel free to check out my repositories!
