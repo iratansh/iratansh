@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Full-Stack document creation and editing tool called WebEdit<br>👯 I’m looking to collaborate on Full-Stack or ML related projects
+🧍 Hello! I am Ishaan, an aspiring developer from Canada. 🔭 I’m currently working on a Full-Stack document creation and editing tool called WebEdit<br>👯 I’m looking to collaborate on Full-Stack or ML related projects
 
 
 ## 🌐 Socials:
