@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧍 Hello! I am an aspiring developer from Canada. <br>🔭 I’m currently working on a Full-Stack document creation and editing tool called WebEdit<br>👯 I’m looking to collaborate on Full-Stack or ML related projects
+🧍 Hello! I am an aspiring developer from Canada. <br>🔭 I’m currently working on a Full-Stack document creation and editing tool called WebEdit<br>👯 I’m looking for SWE internships or opprotunities to collaborate on Full-Stack or ML related projects 
 
 
 ## 🌐 Socials:
