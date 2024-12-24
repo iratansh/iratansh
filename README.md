@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧍 Hello! I am an aspiring developer from Canada. <br>🔭 I’m currently working on a Full-Stack application that tracks and analyzes key economic indicators, such as GDP, inflation, unemployment rates, and consumer confidence, to provide users with personalized insights and predictions called MacroScope.<br>👯 I’m looking for software or embedded internships or opportunities to collaborate on related projects 
+🧍 Hello! I am an aspiring developer from Canada. <br>🔭 I’m currently working on a voice modulator library in C that uses the phase vocoder algorithm and multi-threading to ensure high quality and low latency.<br>👯 I’m looking for software or embedded internships or opportunities to collaborate on related projects 
 
 
 ## 🌐 Socials:
