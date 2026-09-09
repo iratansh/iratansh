@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧍 Hello! I am an aspiring software/robotics developer from Canada particularly interested in infrastructure/platform engineering.
+🧍 Hello! I am an aspiring software developer from Canada particularly interested in infrastructure/platform engineering.
 
 
 ## 🌐 Socials:
