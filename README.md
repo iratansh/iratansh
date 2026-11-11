@@ -58,8 +58,8 @@ I enjoy building reliable, scalable systems and automating complex engineering w
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iratansh&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iratansh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Most used programming languages" />
+  <img src="./profile-summary-card-output/dracula/3-stats.svg" height="165" alt="GitHub statistics" />
+  <img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" height="165" alt="Most used programming languages" />
 </p>
 
 <p align="center">
