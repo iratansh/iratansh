@@ -11,6 +11,7 @@ I enjoy building reliable, scalable systems and automating complex engineering w
 - Cloud Computing & DevOps
 - Observability & Automation
 - AI-powered Developer Tools
+- Big Data
 
 ## 💻 Tech Stack
 
