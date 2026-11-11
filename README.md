@@ -57,14 +57,20 @@ I enjoy building reliable, scalable systems and automating complex engineering w
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="./profile-summary-card-output/dracula/3-stats.svg" height="165" alt="GitHub statistics" />
-  <img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" height="165" alt="Most used programming languages" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=iratansh&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
+<div align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=iratansh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=iratansh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+    alt="Most Used Languages"
+  />
+</div>
+
 
 ---
 
