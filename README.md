@@ -12,10 +12,6 @@ I enjoy building reliable, scalable systems and automating complex engineering w
 - Observability & Automation
 - AI-powered Developer Tools
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishaan-ratanshi)
-
 ## 💻 Tech Stack
 
 ### Languages
