@@ -101,8 +101,6 @@ I enjoy building reliable, scalable systems and automating complex engineering w
   />
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=iratansh)
-
 ---
 
 ⭐ Always interested in building reliable systems, exploring new technologies, and solving challenging engineering problems. Feel free to reach out or collaborate!
