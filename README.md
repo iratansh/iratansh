@@ -89,16 +89,7 @@ I enjoy building reliable, scalable systems and automating complex engineering w
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=iratansh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=iratansh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="180"
-    alt="Most Used Languages"
-  />
+  <img src="metrics.svg" alt="GitHub Metrics" />
 </div>
 
 ---
